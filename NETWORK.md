@@ -1,10 +1,17 @@
-# Zion AI Fraud Detection
+# Zion AI Fraud Detection — Zion App Network
 
-Fraud detection app.
+Zion AI Fraud Detection — standalone real-time fraud detection app. Part of the [Zion Tech Group](https://ziontechgroup.com) app network.
 
-## Network
-- 📚 Master catalog: [zion-app-network/CATALOG.md](https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md)
-- Hubs: [zion-app-network](https://github.com/Zion-support/zion-app-network) · [zion-apps-hub](https://github.com/Zion-support/zion-apps-hub)
-- Related: [ai-fraud-prevention](https://github.com/Zion-support/ai-fraud-prevention) · [zion-fraud-detection](https://github.com/Zion-support/zion-fraud-detection) · [ai-banking-platform](https://github.com/Zion-support/ai-banking-platform) · [ai-financial-services-suite](https://github.com/Zion-support/ai-financial-services-suite)
+- 🔗 Live app: [https://fraud-detection.ziontechgroup.com](https://fraud-detection.ziontechgroup.com)
+- 🏠 Category: [Security & Compliance](https://github.com/Zion-support/zion-network/blob/main/network/security-compliance.md)
 
-*Zion Tech Group · [ziontechgroup.com](https://ziontechgroup.com)*
+## Related apps in the network
+
+- [Zion Fraud Detection](https://github.com/Zion-support/zion-fraud-detection) — real-time fraud detection
+- [AI Fraud Prevention](https://github.com/Zion-support/ai-fraud-prevention) — fraud prevention
+- [Zion AI Threat Modeler](https://github.com/Zion-support/zion-ai-threat-modeler) — threat modeling
+- [Zion AI Compliance Auditor](https://github.com/Zion-support/zion-ai-compliance-auditor) — EU AI Act ready auditing
+- [Secrets Sentinel](https://github.com/Zion-support/secrets-sentinel) — secret scanning & leak response
+
+## Part of the Zion App Network
+🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
